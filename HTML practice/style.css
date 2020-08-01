@@ -1,0 +1,26 @@
+body{
+    background-color: moccasin;
+}
+
+h1{
+    color: #66bfbf;
+    
+    
+}
+
+h3{
+    color: darkgreen;
+    position: center;
+}
+
+hr{
+    background-color: moccasin;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    
+}
+
